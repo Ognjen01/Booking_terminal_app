@@ -1,0 +1,6 @@
+{'id': '020202', 'ime': 'Termag', 'adresa': 'Jahorina', 'bazen': 'da', 'restoran': 'ne', 'ocjena': '4.2\n'}
+{'id': '040404', 'ime': 'Moskva', 'adresa': 'Beograd', 'bazen': 'ne', 'restoran': 'da', 'ocjena': '3.75\n'}
+{'id': '422558', 'ime': 'Posavina', 'adresa': 'Teslic', 'bazen': 'ne', 'restoran': 'ne', 'ocjena': '4.0\n'}
+{'id': '050505', 'ime': 'Palas', 'adresa': 'Banja Luka', 'bazen': 'ne', 'restoran': 'da', 'ocjena': '3.7\n'}
+{'id': '020202', 'ime': 'Termag', 'adresa': 'Jahorina', 'bazen': 'da', 'restoran': 'da', 'ocjena': '4.4\n'}
+{'id': '030303', 'ime': 'Pupin', 'adresa': 'Novi Sad', 'bazen': 'ne', 'restoran': 'da', 'ocjena': '3.9\n', 'redni broj': 0}

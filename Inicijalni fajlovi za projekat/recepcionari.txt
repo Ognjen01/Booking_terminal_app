@@ -1,0 +1,5 @@
+mate|mate123|Mate|Zivkovic|066458785|mate@rec.com|recepcionar|010101
+kristijan|kristijan123|Kristijan|Popovic|052998763|kristijan@rec.com|recepcionar|020202
+darko|darko123|Darko|Djekic|021546321|darko@rec.com|recepcionar|030303
+zlatan|zlatan123|Zlatan|Ibrahimovic|092875245|zlatan@rec.com|recepcionar|040404
+nikola|nikola123|Nikola|Zivkovic|065458357|nikola@rec.com|recepcionar|050505

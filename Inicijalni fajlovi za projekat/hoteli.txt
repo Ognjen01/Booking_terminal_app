@@ -1,0 +1,6 @@
+010101|Kardijal|Teslic|da|da|4.7
+020202|Termag|Jahorina|da|da|4.4
+030303|Pupin|Novi Sad|ne|da|3.9
+040404|Moskva|Beograd|ne|da|4.5
+050505|Palas|Banja Luka|ne|da|3.7
+422558|Posavina|Teslic|ne|ne|3.0

@@ -1,0 +1,8 @@
+Ognjen|Lazic|ognjen|ognjen123|066545537|ognjen@ognjenlaic.com|korisnik
+Mirko|Peric|mirko|mirko123|0645453441|mirko@mirko.com|korisnik
+Stanko|Bozic|stanko|stanko123|061234765|stanko@stanko.com|korisnik
+Marija|Mikic|marija|marija123|032765407|marija@marija.com|korisnik
+Radovan|Djuric|radovan|radovan123|098654789|radovan@radovan.com|korisnik
+Mitar|Deronic|mitar|mitar123|065455357|mitar@mitar.com|korisnik
+Milovan|Zvjerac|milovan|milovan123|064789321|milovan@milovan.com|korisnik
+Zivko|Zivkovic|zivko|zivko123|012345678|zivko@zivko.com|korisnik
