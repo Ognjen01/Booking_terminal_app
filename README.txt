@@ -1,4 +1,4 @@
-U folderu SR 13 2020 nalazi se finalna verzija projekta za predmet Osnove programiranja studenta Ognjena Lazica.
+Uputstvo za korišćenje:
 
 U folderu "Inicijalni fajlovi za projekat" se nalaze tekst fajlovi koji se uzimaju kao pocetne vrijednosti, 
 ovi fajlovi su vec ukljuceni u folderu SR 13 2020, tako da nije potrebno vrsiti nikakve operacije sa istim.
